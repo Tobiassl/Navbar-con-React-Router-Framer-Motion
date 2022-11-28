@@ -1,0 +1,5 @@
+export {Inicio} from './Inicio'
+export {AcercaDe} from './Acerca de'
+export {Error404} from './error404'
+export {Shop} from './Shop'
+export {Contacto} from './contacto'
